@@ -33,6 +33,3 @@ else if(day == 6 ^ day == 7){
 else{
         System.Console.WriteLine("Нет");
 }
-
-
-;
